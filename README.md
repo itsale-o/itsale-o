@@ -1,7 +1,7 @@
 ## Hi, I'm Alessandra. :v:
 
 - :brazil: - I'm brazilian
-- :mortar_board: - Gratuated in physics
+- :mortar_board: - Graduated in physics
 - :video_game: - Gamer on my free time
 - :blush: - My pronouns: she/her
 - :computer: - Looking to be a full stack developer
