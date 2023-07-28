@@ -13,11 +13,10 @@
 #### :earth_americas: How to find me:
  
 <div>
-  <a href="https://www.linkedin.com/in/alessandra-oliveira-049247228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="80" height="25"></a>   
+  <a href="https://www.linkedin.com/in/alessandra-santos-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="80" height="25"></a>   
   <a href = "mailto:alessandrasantosoliveira10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width="70" height="25"></a>
   <a href = "mailto:alessandra_santos_oliveira@hotmail.com"><img src="https://img.shields.io/badge/Outlook-4169E1?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width="75" height="25"></a>
   <a href="https://twitter.com/itsale_o" target="_blank"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" width="70" height="25"></a> 
-  <a href="https://www.twitch.tv/itsale_o" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank" width="70" height="25"></a>
 </div>
 
 <div>
