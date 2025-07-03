@@ -1,27 +1,73 @@
-## Hi, I'm Alessandra. :v:
+# 👩‍💻 Alessandra Oliveira
 
-- :brazil: - I'm brazilian
-- :mortar_board: - Graduated in physics
-- :video_game: - Gamer on my free time
-- :blush: - My pronouns: she/her
-- :computer: - Looking to be a full stack developer
+Software Developer focused on crafting purpose-driven and customized digital solutions with clarity and real-world impact. Co-founder of **RA² Tecnologia**, where we work on designing and building systems that automate processes and improve user experience — always with clean code, efficient architecture, and attention to detail.
 
-#### :books: I'm currently learning (and getting better at): 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" height="25"/> 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" height="25" />
+---
 
-#### :earth_americas: How to find me:
- 
-<div>
-  <a href="https://www.linkedin.com/in/alessandra-santos-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="80" height="25"></a>   
-  <a href = "mailto:alessandrasantosoliveira10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width="70" height="25"></a>
-  <a href = "mailto:alessandra_santos_oliveira@hotmail.com"><img src="https://img.shields.io/badge/Outlook-4169E1?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width="75" height="25"></a>
-  <a href="https://twitter.com/itsale_o" target="_blank"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" width="70" height="25"></a> 
-</div>
+## 💼 About Me
 
-<div>
-<a href="https://github.com/itsale-o">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsale-o&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsale-o&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-  
+- 🎓 Bachelor's degree in Physics + Technical degree in Software Development  
+- 💡 Focused on scalable, usable, and problem-solving solutions  
+- 🤝 Clear communication, product mindset, and team collaboration  
+- 🌐 Based in Brazil, available for remote work
+
+---
+
+## 🚀 RA² Tecnologia
+
+I'm currently a developer and co-founder at **RA² Tecnologia**, a company focused on creating intelligent and accessible digital tools. We are always aiming to:
+
+- Automate workflows and internal operations  
+- Build responsive and accessible systems  
+- Deliver user-centered solutions in partnership with clients
+
+---
+
+## 🛠️ Technologies I Use
+
+**Back-end**  
+- Python (Django, Flask)  
+- PostgreSQL, MySQL
+
+**Front-end**  
+- HTML, CSS  
+- JavaScript  
+- Bootstrap & Tailwind CSS
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsale-o&layout=compact&langs_count=8&theme=dracula" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=itsale-o&show_icons=true&theme=dracula&count_private=true&hide_rank=false" />
+</p>
+
+---
+
+## 🌱 Currently Exploring
+
+- UX and UI improvements with accessibility in mind
+- Mobile development with Flutter
+- Clean versioning and documentation practices  
+- Seamless integration between front-end and back-end
+
+---
+
+## 📫 Contact
+
+<p align="left">
+  <a href="mailto:alessandra_santos_oliveira@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://github.com/itsale-o">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://linkedin.com/in/alessandra-oliveira">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
+---
+
+> *Purposeful code drives meaningful transformation.*
